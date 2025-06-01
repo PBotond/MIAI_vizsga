@@ -25,3 +25,10 @@
 %% Goldstein-elv
 % 10, 0.4, 0.5 => 0, 10, 5, 33.82, 31.58, 0, 5
 
+%% Sugeno x* y*
+% 2.321 => y=3, x=4
+% 3.247 => y=3, x=2
+
+%% Konjugalt gradiens optimumkereses
+% A = [1 2 ;0 3], b=[1; 4] => lambda_0=0.306, beta_0=0.013, f(x_2)=2,43
+
